@@ -1,7 +1,7 @@
 function preload(){
 bg=loadImage("background.jpg")
 heliImg=loadImage("helicopter.png")
-build1=loadImage("building1.png")
+build1=loadImage("Building1.png")
 build2=loadImage("building2.png")
 build3=loadImage("building3.png")
 object1=loadImage("object1.png")
